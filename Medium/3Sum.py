@@ -1,3 +1,5 @@
+# Medium
+
 def threeSum(nums):
     nums.sort()
     result = []
